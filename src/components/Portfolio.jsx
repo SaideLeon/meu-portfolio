@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import banner from '../assets/banner.svg';
+import imagemJpg from '../assets/imagem.jpg';
 import {Github, Mail, Phone, User, Code, BookOpen, Briefcase, Menu, X } from 'lucide-react';
 
 const Portfolio = () => {
@@ -24,7 +26,7 @@ const Portfolio = () => {
       <div className="relative h-96 overflow-hidden">
         <div className="absolute inset-0 bg-black/40 z-10" />
         <img
-          src="./src/assets/banner.svg"
+          src={banner}
           alt="Banner"
           className="w-full h-full object-cover"
         />
@@ -32,7 +34,7 @@ const Portfolio = () => {
           <div className="text-center">
             <div className="mb-6">
               <img
-                src="./src/assets/imagem.jpg"
+                src={imagemJpg}
                 alt="Profile"
                 className="w-32 h-32 rounded-full border-4 border-white mx-auto shadow-xl"
               />
