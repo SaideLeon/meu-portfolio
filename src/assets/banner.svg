@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <!-- Fundo do banner aumentado -->
+  <rect width="800" height="300" fill="#1a1a1a"/>
+  
+  <!-- HTML -->
+  <g>
+    <text x="0" y="60" fill="#e34c26" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="15s" repeatCount="indefinite"/>
+      &lt;HTML/&gt;
+    </text>
+  </g>
+
+  <!-- CSS -->
+  <g>
+    <text x="0" y="90" fill="#264de4" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="14s" repeatCount="indefinite"/>
+      #CSS{}
+    </text>
+  </g>
+
+  <!-- JavaScript -->
+  <g>
+    <text x="0" y="120" fill="#f7df1e" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="13s" repeatCount="indefinite"/>
+      {JS}
+    </text>
+  </g>
+
+  <!-- TypeScript -->
+  <g>
+    <text x="0" y="150" fill="#007acc" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="12s" repeatCount="indefinite"/>
+      &lt;TS&gt;
+    </text>
+  </g>
+
+  <!-- Python -->
+  <g>
+    <text x="0" y="180" fill="#306998" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="11s" repeatCount="indefinite"/>
+      🐍 Python
+    </text>
+  </g>
+
+  <!-- Java -->
+  <g>
+    <text x="0" y="210" fill="#f89820" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="10s" repeatCount="indefinite"/>
+      ☕ Java
+    </text>
+  </g>
+
+  <!-- C# -->
+  <g>
+    <text x="0" y="240" fill="#68217a" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="9.5s" repeatCount="indefinite"/>
+      C#
+    </text>
+  </g>
+
+  <!-- PHP -->
+  <g>
+    <text x="0" y="270" fill="#777bb4" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="9s" repeatCount="indefinite"/>
+      &lt;?PHP?&gt;
+    </text>
+  </g>
+
+  <!-- Ruby -->
+  <g>
+    <text x="0" y="60" fill="#cc342d" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="8.5s" repeatCount="indefinite"/>
+      💎 Ruby
+    </text>
+  </g>
+
+  <!-- Go -->
+  <g>
+    <text x="0" y="90" fill="#00add8" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="8s" repeatCount="indefinite"/>
+      Go{}
+    </text>
+  </g>
+
+  <!-- Rust -->
+  <g>
+    <text x="0" y="120" fill="#dea584" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="7.5s" repeatCount="indefinite"/>
+      🦀 Rust
+    </text>
+  </g>
+
+  <!-- Swift -->
+  <g>
+    <text x="0" y="150" fill="#ffac45" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="7s" repeatCount="indefinite"/>
+      Swift&gt;&gt;
+    </text>
+  </g>
+
+  <!-- Kotlin -->
+  <g>
+    <text x="0" y="180" fill="#a97bff" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="6.5s" repeatCount="indefinite"/>
+      Kotlin()
+    </text>
+  </g>
+
+  <!-- SQL -->
+  <g>
+    <text x="0" y="210" fill="#336791" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="6s" repeatCount="indefinite"/>
+      SELECT*
+    </text>
+  </g>
+
+  <!-- React -->
+  <g>
+    <text x="0" y="240" fill="#61dafb" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="5.5s" repeatCount="indefinite"/>
+      ⚛️ React
+    </text>
+  </g>
+
+  <!-- Angular -->
+  <g>
+    <text x="0" y="270" fill="#dd1b16" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="5s" repeatCount="indefinite"/>
+      &lt;Angular/&gt;
+    </text>
+  </g>
+
+  <!-- Vue -->
+  <g>
+    <text x="0" y="60" fill="#42b883" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="4.5s" repeatCount="indefinite"/>
+      Vue()
+    </text>
+  </g>
+
+  <!-- Docker -->
+  <g>
+    <text x="0" y="90" fill="#2496ed" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="4s" repeatCount="indefinite"/>
+      🐳 Docker
+    </text>
+  </g>
+
+  <!-- Git -->
+  <g>
+    <text x="0" y="120" fill="#f05032" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="3.5s" repeatCount="indefinite"/>
+      Git=>
+    </text>
+  </g>
+</svg>

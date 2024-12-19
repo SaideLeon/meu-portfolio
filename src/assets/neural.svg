@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <!-- Fundo do banner -->
+  <rect width="800" height="300" fill="#1a1a1a"/>
+  
+  <!-- Símbolos de IA/Redes Neurais -->
+  <g>
+    <text x="0" y="60" fill="#00ff00" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="15s" repeatCount="indefinite"/>
+      🧠 Neural Network
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="90" fill="#ff4081" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="14s" repeatCount="indefinite"/>
+      [Deep Learning]
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="120" fill="#bb86fc" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="13s" repeatCount="indefinite"/>
+      🤖 Machine Learning
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="150" fill="#64ffda" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="12s" repeatCount="indefinite"/>
+      &lt;CNN&gt;
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="180" fill="#ff7043" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="11s" repeatCount="indefinite"/>
+      RNN→
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="210" fill="#03dac6" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="10s" repeatCount="indefinite"/>
+      LSTM[]
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="240" fill="#b39ddb" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="9.5s" repeatCount="indefinite"/>
+      🔄 Backprop
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="270" fill="#ffab40" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="9s" repeatCount="indefinite"/>
+      ∑ Perceptron
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="60" fill="#80d8ff" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="8.5s" repeatCount="indefinite"/>
+      Tensor[n]
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="90" fill="#ff80ab" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="8s" repeatCount="indefinite"/>
+      🎯 Gradient
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="120" fill="#ea80fc" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="7.5s" repeatCount="indefinite"/>
+      PyTorch
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="150" fill="#84ffff" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="7s" repeatCount="indefinite"/>
+      TensorFlow
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="180" fill="#b9f6ca" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="6.5s" repeatCount="indefinite"/>
+      🔍 Keras
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="210" fill="#ff9e80" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="6s" repeatCount="indefinite"/>
+      Scikit-learn
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="240" fill="#8c9eff" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="5.5s" repeatCount="indefinite"/>
+      🎲 NumPy
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="270" fill="#ff8a80" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="5s" repeatCount="indefinite"/>
+      📊 Pandas
+    </text>
+  </g>
+
+  <!-- Símbolos Matemáticos de IA -->
+  <g>
+    <text x="0" y="60" fill="#b388ff" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="4.5s" repeatCount="indefinite"/>
+      σ(x)
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="90" fill="#82b1ff" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="-100; 800" dur="4s" repeatCount="indefinite"/>
+      ∇f(x)
+    </text>
+  </g>
+
+  <g>
+    <text x="0" y="120" fill="#ffd180" font-family="monospace" font-size="24">
+      <animate attributeName="x" values="800; -100" dur="3.5s" repeatCount="indefinite"/>
+      Σ wx + b
+    </text>
+  </g>
+</svg>

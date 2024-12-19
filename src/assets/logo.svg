@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF69F5"/>
+      <stop offset="100%" style="stop-color:#45A6FF"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Outer circle with connecting lines -->
+  <g transform="translate(100 100)">
+    <!-- Center circle -->
+    <circle r="25" fill="url(#gradient)"/>
+    
+    <!-- Inner white circle -->
+    <circle r="15" fill="#FFFFFF"/>
+    
+    <!-- Center dot -->
+    <circle r="8" fill="url(#gradient)"/>
+    
+    <!-- Outer connection points and lines -->
+    <g id="connection">
+      <line x1="0" y1="35" x2="0" y2="55" stroke="url(#gradient)" stroke-width="6" stroke-linecap="round"/>
+      <line x1="0" y1="35" x2="10" y2="45" stroke="url(#gradient)" stroke-width="6" stroke-linecap="round"/>
+      <line x1="0" y1="35" x2="-10" y2="45" stroke="url(#gradient)" stroke-width="6" stroke-linecap="round"/>
+      <circle cx="0" cy="60" r="5" fill="url(#gradient)"/>
+    </g>
+    
+    <!-- Rotate and duplicate the connection pattern -->
+    <use href="#connection" transform="rotate(45)"/>
+    <use href="#connection" transform="rotate(90)"/>
+    <use href="#connection" transform="rotate(135)"/>
+    <use href="#connection" transform="rotate(180)"/>
+    <use href="#connection" transform="rotate(225)"/>
+    <use href="#connection" transform="rotate(270)"/>
+    <use href="#connection" transform="rotate(315)"/>
+  </g>
+</svg>
